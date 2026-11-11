@@ -1,0 +1,41 @@
+body  {
+background-color: lightgrey;
+}
+
+
+h1  {
+
+    color:blue;
+
+}
+
+
+p  {
+    color:black
+
+    
+}
+
+
+.intro  { 
+    color:darkgreen;
+    font-size:  18px;
+
+
+}
+
+
+.navbar  {
+    background-color:darkgreen;
+    padding: 15px;
+
+}
+
+
+.navbar a  {
+    color:white;
+    text-decoration:remove the underlines;
+
+
+}
+    
