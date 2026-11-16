@@ -5,10 +5,28 @@ background-color: lightgrey;
 
 h1  {
 
+    animation: fadeIn 2s ease-in;
+
     color:blue;
 
 }
 
+
+@keyframes fadeIn {
+
+    from {
+
+        opacity: 0;
+
+    }
+
+
+    to {
+
+        opacity: 1;
+
+    }
+}
 
 p  {
     color:black
@@ -18,8 +36,26 @@ p  {
 
 
 .intro  { 
+
+
+    animation: fadeIn 2s ease-in;
+
+
     color:darkgreen;
     font-size:  18px;
+
+    from {
+
+    opacity: 0;
+
+    }
+
+
+    to {
+
+        opacity: 2;
+
+    }
 
 
 }
@@ -34,7 +70,7 @@ p  {
 
 .navbar a  {
     color:white;
-    text-decoration:remove the underlines;
+    text-decoration: none;
 
 
 }
