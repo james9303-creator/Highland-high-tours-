@@ -58,11 +58,16 @@ p  {
 }
 
 
-.navbar a  {
+.navbar a:hover  {
     color:black;
     text-decoration: none;
     animation: fadeIn 5s;
+    transition: color: 0.3s ease;
 
+
+    nav a:hover {
+color: red;
+    
 }
 
 
