@@ -12,6 +12,14 @@ h1  {
 }
 
 
+h2  {
+
+    color:black;
+
+
+}
+
+
 @keyframes fadeIn {
 
     from {
@@ -29,35 +37,16 @@ h1  {
 }
 
 p  {
-    color:black
+    color:black;
 
     
 }
 
 
 .intro  { 
-
-
     animation: fadeIn 2s ease-in;
-
-
-    color:darkgreen;
+    color:yellow;
     font-size:  18px;
-
-    from {
-
-    opacity: 0;
-
-    }
-
-
-    to {
-
-        opacity: 2;
-
-    }
-
-
 }
 
 
@@ -69,9 +58,17 @@ p  {
 
 
 .navbar a  {
-    color:white;
+    color:whitesmoke;
     text-decoration: none;
 
 
 }
-    
+
+
+#home {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("images/Highland photo for website 2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    padding: 40px;
+}
