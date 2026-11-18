@@ -68,7 +68,7 @@ p  {
 #home {
     background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("images/Highland photo for website 2.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: center 90%;
     background-repeat: no-repeat; 
     padding: 40px;
 }
