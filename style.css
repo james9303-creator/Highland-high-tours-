@@ -5,15 +5,16 @@ background-color: lightgrey;
 
 h1  {
 
-    animation: fadeIn 2s ease-in;
-
+    animation: fadeIn 5s ease-in;
     color:blue;
+    text-align: center;
 
 }
 
 
 h2  {
 
+    animation: fadeIn 5s ease-in;
     color:yellow;
 
 
@@ -58,9 +59,9 @@ p  {
 
 
 .navbar a  {
-    color:whitesmoke;
+    color:black;
     text-decoration: none;
-
+    animation: fadeIn 5s;
 
 }
 
