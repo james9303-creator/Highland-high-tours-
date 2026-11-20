@@ -21,6 +21,24 @@ h2  {
 }
 
 
+
+h3  {
+
+    animation: fadeIn 5s ease-in;
+    color: black;
+
+
+}
+
+
+h4   {
+animation: fadeIn 5s ease-in;
+color: black;
+
+
+}
+
+
 @keyframes fadeIn {
 
     from {
@@ -59,7 +77,7 @@ p  {
 
 
 .navbar a {
-    color:black;
+    color:white;
     text-decoration: none;
     animation: fadeIn 5s;
     transition: color 0.3s ease;
