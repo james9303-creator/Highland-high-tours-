@@ -78,3 +78,12 @@ color: yellow;
     background-repeat: no-repeat; 
     padding: 40px;
 }
+
+
+.gallery-image {
+    width: 25%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+{
