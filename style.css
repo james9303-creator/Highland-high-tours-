@@ -1,5 +1,5 @@
 body  {
-background-color: lightgrey;
+background-color: lightgray;
 }
 
 
@@ -70,19 +70,21 @@ p  {
 
 
 .navbar  {
-    background-color:darkgreen;
+    background-color:lightblue;
     padding: 15px;
 
 }
 
 
 .navbar a {
-    color:white;
+    color:blue;
     text-decoration: none;
     animation: fadeIn 5s;
     transition: color 0.3s ease;
 
 }
+
+
     nav a:hover {
 color: yellow;
     
@@ -127,3 +129,10 @@ h5  {
     color: black;  
 
 }
+
+.back-button {
+color: white
+
+}
+
+
