@@ -17,7 +17,6 @@ h2  {
     animation: fadeIn 5s ease-in;
     color:yellow;
 
-
 }
 
 
@@ -25,7 +24,8 @@ h2  {
 h3  {
 
     animation: fadeIn 5s ease-in;
-    color: black;
+    color: black; 
+    text-decoration: underline;
 
 
 }
@@ -116,5 +116,14 @@ color: yellow;
     margin: 20px auto;
     object-fit: cover;
     border-radius: 10px;
+
+}
+
+
+h5  {
+
+    animation: fadeIn ease-in 5s;
+    font-size: 18px;
+    color: black;  
 
 }
